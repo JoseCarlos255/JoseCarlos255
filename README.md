@@ -14,7 +14,7 @@
                  Y |        L .'             `. J        | J            \ \ \ \ \ \ \   \ \ \_\ \ \ \ \/\  __/\ \ \//\  __/ 
                   L|        Q'                 `F        |J              \ \_\ \_\ \_\   \ \__\\ \_\ \_\ \____\\ \_\\ \____\
                    Q        |                   |        J                \/_/\/_/\/_/    \/__/ \/_/\/_/\/____/ \/_/ \/____/
-                    L       C                   D       J
+                    L       C                   D       J                              𝕚'𝕞 𝕛𝕠𝕤𝕖 𝕔𝕒𝕣𝕝𝕠𝕤
                      \      \  ---...____..---  /     _/
                       `L .-' `.               .' `-. P
                        |`L   (|`-.__     __.-'|)   J'|__
@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about crypto 
+- 💬 Ask me about crypto 💹
 - 📫 How to reach me: email => jose.carlosha@hotmail.com
 - ⚡ Fun fact: ...
 
