@@ -1,16 +1,35 @@
+                                    _____
+                              _.--""     ""--._                                                       
+                          _.-"                 "-._                                                   
+                        .F                         Y.                                                 
+                      .F                             Y.                                               
+                     /   ..___                 ___..   \                                              
+                    F   /   | """""-------""""" |   \   Q                                             
+                   F   F    (.-"""-.     .-"""-.)    Q   Q                                            
+                  F   F    .'       `. .'       `.    Q   Q                                                          
+                 J   F    /|    o    | |    o    |\    Q   L           __  __          __    __                         
+                 |  J     .`.       .' `.       .'.     L  |          /\ \/\ \  __    /\ \__/\ \                           
+                 |  F    ( " `-...-'(   )'-...-' " )    Q  |          \ \ \_\ \/\_\   \ \ ,_\ \ \___      __   _ __    __    
+                 | |      `.    _.-' '-' `-._    .'      | |           \ \  _  \/\ \   \ \ \/\ \  _ `\  /'__`\/\`'__\/'__`\               
+                 Y |        L .'             `. J        | J            \ \ \ \ \ \ \   \ \ \_\ \ \ \ \/\  __/\ \ \//\  __/               
+                  L|        Q'                 `F        |J              \ \_\ \_\ \_\   \ \__\\ \_\ \_\ \____\\ \_\\ \____\                    
+                   Q        |                   |        J                \/_/\/_/\/_/    \/__/ \/_/\/_/\/____/ \/_/ \/____/
+                    L       C                   D       J
+                     \      \  ---...____..---  /     _/
+                      `L .-' `.               .' `-. P
+                       |`L   (|`-.__     __.-'|)   J'|__
+                       |  `-._`-..__"""""__..-'_.-'  |  """..
+           _..--""-..-' `.    `-..__"""""__..-"    .'\       `-.
+        .-"         L     `-._      """""      _.-'   L  *****:::.
+      ."            |         ""--.........--""        Q  *****...L
+
 ### Hi there 👋
-
-<!--
-**JoseCarlos255/JoseCarlos255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about crypto 
+- 📫 How to reach me: email => jose.carlosha@hotmail.com
 - ⚡ Fun fact: ...
--->
+
